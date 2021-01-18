@@ -1,0 +1,3 @@
+I wanted to start a project to highlight one of my passions: snowboarding. Ideally, I want to create a database of parks and slopes I have experienced. There are two variables: parks and slopes. The complicated part will be to nest slopes within parks. Nesting with database projects such as MongoDB is very difficult. When I was working on a photography database, I could not nest areas within regions, which led to a very disorganized structure. I hope to rectify that issue with this project.
+
+Parks => Slopes
